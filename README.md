@@ -16,9 +16,12 @@ Podczas tworzenia aplikacji skupiłem się na następujących aspektach:
 
 3. **Obliczanie zarobku za wykonanie usług**:
    - Aplikacja automatycznie oblicza zarobek wykonawcy na podstawie liczby i rodzaju wykonanych usług, co pozwala na przejrzyste rozliczanie pracy.
+     ![Ekran główny](Screeny/5.PNG)
 
 4. **System rejestracji konta oraz logowania**:
    - Aplikacja posiada system rejestracji i logowania, który umożliwia użytkownikom tworzenie kont i zarządzanie swoimi zgłoszeniami oraz wykonawcami.
+   ![Ekran główny](Screeny/2.PNG)
+   ![Ekran główny](Screeny/3.PNG)
 
 ## Technologie
 
@@ -29,10 +32,7 @@ Podczas tworzenia aplikacji skupiłem się na następujących aspektach:
 
 Celem projektu było praktyczne zastosowanie wiedzy z zakresu baz danych, w tym projektowanie, implementacja i zarządzanie danymi przy użyciu SQL Server. Aplikacja "Złota Rączka" jest realnym przykładem, jak można wykorzystać bazy danych do zarządzania danymi w aplikacjach biznesowych.
 
-## Uruchamianie
-
-1. Skonfiguruj bazę danych w SQL Server Management Studio.
-2. Skompiluj aplikację przy użyciu środowiska .NET.
-3. Uruchom aplikację i zaloguj się na swoje konto lub zarejestruj nowego użytkownika.
+## Diagram Bazy danych
+![Ekran główny](Screeny/diagram.PNG)
 
 Projekt został stworzony w ramach zajęć z baz danych.
