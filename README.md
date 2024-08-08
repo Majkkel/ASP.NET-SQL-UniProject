@@ -1,7 +1,7 @@
 # Aplikacja "Złota Rączka" - Punkty Usługowe
 
 ## Opis
-![Ekran główny](Screeny/1.png)
+![Ekran główny](Screeny/1.PNG)
 Aplikacja "Złota Rączka" została stworzona jako projekt na zajęcia z baz danych i ma na celu ułatwienie zarządzania punktami usługowymi oferującymi różnorodne usługi drobnych napraw. Aplikacja została zaprojektowana i zaimplementowana w technologii .NET, a baza danych została stworzona i zarządzana przy użyciu SQL Server Management Studio (SSMS).
 
 ## Funkcjonalności
