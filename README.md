@@ -13,10 +13,10 @@ Podczas tworzenia aplikacji skupiłem się na następujących aspektach:
 
 2. **Zarządzanie czasem wykonawcy usług**:
    - System pozwala na zarządzanie harmonogramem pracy wykonawców, co umożliwia optymalne przydzielanie zadań oraz monitorowanie czasu poświęconego na realizację poszczególnych usług.
-
+      ![Ekran główny](Screeny/5.PNG)
 3. **Obliczanie zarobku za wykonanie usług**:
    - Aplikacja automatycznie oblicza zarobek wykonawcy na podstawie liczby i rodzaju wykonanych usług, co pozwala na przejrzyste rozliczanie pracy.
-     ![Ekran główny](Screeny/5.PNG)
+     ![Ekran główny](Screeny/6.PNG)
 
 4. **System rejestracji konta oraz logowania**:
    - Aplikacja posiada system rejestracji i logowania, który umożliwia użytkownikom tworzenie kont i zarządzanie swoimi zgłoszeniami oraz wykonawcami.
