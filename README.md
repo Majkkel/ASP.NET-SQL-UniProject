@@ -33,6 +33,6 @@ Podczas tworzenia aplikacji skupiłem się na następujących aspektach:
 Celem projektu było praktyczne zastosowanie wiedzy z zakresu baz danych, w tym projektowanie, implementacja i zarządzanie danymi przy użyciu SQL Server. Aplikacja "Złota Rączka" jest realnym przykładem, jak można wykorzystać bazy danych do zarządzania danymi w aplikacjach biznesowych.
 
 ## Diagram Bazy danych
-![Ekran główny](Screeny/diagram.PNG)
+![Ekran główny](Screeny/diagram.png)
 
 Projekt został stworzony w ramach zajęć z baz danych.
